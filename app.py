@@ -133,7 +133,7 @@ html_code = f"""
   <div class="soil"></div>
 
   <!-- Real plant photo from Wikimedia Commons -->
-  <img class="plant-photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Arabidopsis_thaliana.jpg/640px-Arabidopsis_thaliana.jpg" alt="Real plant">
+  <img class="plant-photo" src="assets/plant.png" alt="Real plant">
 
   <svg viewBox="0 0 1200 690" preserveAspectRatio="none">
     <defs>
